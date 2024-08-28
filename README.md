@@ -1,4 +1,4 @@
-# Text-to-3D Generation
+# Awesome Text-to-3D Plus
 A collection of recent methods on 3D generation from text description.
 There are mainly 2 kinds of methods of text-to-3D generation:
 
