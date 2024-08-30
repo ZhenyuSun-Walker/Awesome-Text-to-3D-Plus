@@ -75,6 +75,7 @@ Other repos:
 - **2024.07** - **[ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation](https://arxiv.org/abs/2407.02040)** **(ECCV 2024)** 
 - **2024.08** - **[DreamLCM: Towards High-Quality Text-to-3D Generation via Latent Consistency Model](https://arxiv.org/abs/2408.02993)** **(ACM MM 2024)**
 - **2024.08** - **[SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting](https://arxiv.org/html/2408.13711v1)** **(arXiv 2024)**
+- **2024.08** - **[LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation](https://arxiv.org/abs/2408.13252)** **(arXiv 2024)**
 
 ## Related Repos and Websites
 - **[Awesome Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D)**
