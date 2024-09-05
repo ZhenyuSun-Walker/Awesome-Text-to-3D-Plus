@@ -77,7 +77,7 @@ Other repos:
 - **2024.08** - **[SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting](https://arxiv.org/html/2408.13711v1)** **(arXiv 2024)**
 - **2024.08** - **[LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation](https://arxiv.org/abs/2408.13252)** **(arXiv 2024)**
 
-## Papers of related realm
+## Work in Related Fields
 ### Scene generation from images
 - **2024.02** **[WonderJourney: Going from Anywhere to Everywhere](https://arxiv.org/abs/2312.03884)** **(CVPR 2024)** 
 
