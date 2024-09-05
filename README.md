@@ -77,6 +77,13 @@ Other repos:
 - **2024.08** - **[SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting](https://arxiv.org/html/2408.13711v1)** **(arXiv 2024)**
 - **2024.08** - **[LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation](https://arxiv.org/abs/2408.13252)** **(arXiv 2024)**
 
+## Papers of related realm
+### Scene generation from images
+- **2024.02** **[WonderJourney: Going from Anywhere to Everywhere](https://arxiv.org/abs/2312.03884)** **(CVPR 2024)** 
+
+### Scene generation from videos
+- **2024.04** **[PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation](https://arxiv.org/abs/2404.13026)** **(ECCV 2024)** 
+
 ## Related Repos and Websites
 - **[Awesome Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D)**
 - **[Text-to-3D](https://paperswithcode.com/task/text-to-3d)**
