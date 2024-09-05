@@ -47,7 +47,7 @@ Other repos:
 - **2020.03** - **[Learning Implicit Fields for Generative Shape Modeling](https://arxiv.org/abs/1905.10711)** **(CVPR 2020)**
 - **2020.03** - **[Pix2Vox++: Multi-Scale Context-Aware 3D Object Reconstruction from Single and Multiple Images](https://arxiv.org/abs/1901.11153)** **(CVPR 2020)**
 - **2020.03** - **[Neural Mesh Flow: 3D Manifold Mesh Generation via Diffeomorphic Flows](https://arxiv.org/abs/2007.10973)** **(CVPR 2020)**
--  **2020.03** - **[Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes](https://arxiv.org/abs/2011.13084)** **(CVPR 202)**
+-  **2020.03** - **[Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes](https://arxiv.org/abs/2011.13084)** **(CVPR 2020)**
 
 ### **2021**
 - **2021.03** - **[Text2Shape: Generating Shapes from Natural Language by Learning Joint Embedding](https://arxiv.org/abs/1803.08495)** **(CVPR 2021)**
