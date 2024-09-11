@@ -55,7 +55,7 @@ Other repos:
 - **2021.09** - **[CLIP-Forge: Towards Zero-Shot Text-to-Shape Generation](https://arxiv.org/abs/2110.02624)** **(NeurIPS 2021)**
 
 ### **2022**
-- **2022.09** - **[DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)** **(ICRL 2023)**
+- **2022.09** - **[DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)** **(ICLR 2023)**
 - **2022.11** - **[Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/abs/2211.10440)** **(CVPR 2023)**
 
 ### **2023**
