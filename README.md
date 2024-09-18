@@ -60,7 +60,7 @@ Other repos:
 
 ### **2023**
 - **2023.03** - **[Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://arxiv.org/abs/2303.13873)** **(ICCV 2023)**
-- **2023.05** - **[HiFA: High-fidelity Text-to-3D Generation with Advanced Diffusion Guidance](https://arxiv.org/abs/2305.18766)** **(CVPR 2024)** 
+- **2023.05** - **[HiFA: High-fidelity Text-to-3D Generation with Advanced Diffusion Guidance](https://arxiv.org/abs/2305.18766)** **(ICLR 2024)** 
 - **2023.08** - **[IT3D: Improved Text-to-3D Generation with Explicit View Synthesis](https://arxiv.org/abs/2308.11473)** **(AAAI 2024)**
 - **2023.10** - **[GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models](https://arxiv.org/abs/2310.08529)** **(CVPR 2024)**
 - **2023.11** - **[LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching](https://arxiv.org/abs/2311.11284)** **(CVPR 2024) (<span style="color: hsl(190, 100%, 50%);">H</span>) :** This research introduces a novel method called Interval Score Matching (ISM) for generating high-fidelity 3D models.
