@@ -24,7 +24,7 @@ Other repos:
 ## History
 
 - **2021.06** - **[Text2Mesh: Text-Driven Neural Stylization for Meshes](https://arxiv.org/abs/2112.03221)** **(CVPR 2022) :** This work develops intuitive controls for editing the style of 3D objects by predicting color and local geometric details based on a target text prompt.
-- **2021.12** - **[DreamField: Zero-Shot Text-Guided Object Generation with Dream Fields](https://arxiv.org/abs/2112.01455)** **(CVPR 2022) :** This paper addresses the limitations of DreamFusion by utilizing a two-stage optimization framework to create high-quality 3D mesh models in a shorter time.
+- **2021.12** - **[DreamField: Zero-Shot Text-Guided Object Generation with Dream Fields](https://arxiv.org/abs/2112.01455)** **(CVPR 2022) :** This paper utilizes a two-stage optimization framework to create high-quality 3D mesh models in a shorter time.
 - **2022.09** - **[DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)** **(ICLR 2023) :** This paper introduces a method for generating 3D objects using 2D diffusion models.
 - **2022.11** - **[Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/abs/2211.10440)** **(CVPR 2023) :** This paper introduces a method for generating 3D objects using 2D diffusion models. 
 - **2023.03** - **[Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://arxiv.org/abs/2303.13873)** **(ICCV 2023) :** This research focuses on disentangling geometry and appearance for high-quality 3D content creation.
