@@ -47,7 +47,7 @@ Other repos:
 - **2020.03** - **[Learning Implicit Fields for Generative Shape Modeling](https://arxiv.org/abs/1905.10711)** **(CVPR 2020)**
 - **2020.03** - **[Pix2Vox++: Multi-Scale Context-Aware 3D Object Reconstruction from Single and Multiple Images](https://arxiv.org/abs/1901.11153)** **(CVPR 2020)**
 - **2020.03** - **[Neural Mesh Flow: 3D Manifold Mesh Generation via Diffeomorphic Flows](https://arxiv.org/abs/2007.10973)** **(CVPR 2020)**
--  **2020.03** - **[Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes](https://arxiv.org/abs/2011.13084)** **(CVPR 2020)**
+- **2020.03** - **[Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes](https://arxiv.org/abs/2011.13084)** **(CVPR 2020)**
 
 ### **2021**
 - **2021.03** - **[Text2Shape: Generating Shapes from Natural Language by Learning Joint Embedding](https://arxiv.org/abs/1803.08495)** **(CVPR 2021)**
@@ -70,12 +70,16 @@ Other repos:
 ### **2024**
 - **2024.02** - **[GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting](https://arxiv.org/abs/2402.07207)** **(ICML 2024)** 
 - **2024.04** - **[RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion](https://arxiv.org/abs/2404.07199)** **(arXiv 2024)**
+- **2024.04** - **[DreamScene360: Unconstrained Text-to-3D Scene Generation with Panoramic Gaussian Splatting](https://arxiv.org/abs/2404.06903)** **(ECCV 2024)**
 - **2024.06** - **[GradeADreamer: Enhanced Text-to-3D Generation Using Gaussian Splatting and Multi-View Diffusion](https://arxiv.org/abs/2406.09850)** **（arXiv 2024)**
+- **2024.06** - **[Director3D: Real-world Camera Trajectory and 3D Scene Generation from Text](https://arxiv.org/abs/2406.17601)** **(NeurIPS 2024)**
 - **2024.07** - **[PlacidDreamer: Advancing Harmony in Text-to-3D Generation](https://arxiv.org/abs/2407.13976)** **(ACM MM 2024)** 
+- **2024.07** - **[HoloDreamer: Holistic 3D Panoramic World  Generation from Text Descriptions](https://arxiv.org/abs/2407.15187)**
 - **2024.07** - **[ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation](https://arxiv.org/abs/2407.02040)** **(ECCV 2024)** 
 - **2024.08** - **[DreamLCM: Towards High-Quality Text-to-3D Generation via Latent Consistency Model](https://arxiv.org/abs/2408.02993)** **(ACM MM 2024)**
 - **2024.08** - **[SceneDreamer360: Text-Driven 3D-Consistent Scene Generation with Panoramic Gaussian Splatting](https://arxiv.org/html/2408.13711v1)** **(arXiv 2024)**
 - **2024.08** - **[LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation](https://arxiv.org/abs/2408.13252)** **(arXiv 2024)**
+
 
 ## Work in Related Fields
 ### Scene generation from images
